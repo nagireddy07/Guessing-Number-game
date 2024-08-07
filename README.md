@@ -1,5 +1,4 @@
-# PRODIGY_SD_02
-My Second task in the Software Development Internship by prodigy infotech
+
 The Java program described above is a simple console-based guessing game where the user tries to guess a randomly generated number between 1 and 10. The program provides feedback on whether the user's guess is too high or too low, and it continues to prompt for guesses until the correct number is guessed. It also keeps track of the number of attempts the user makes to guess the correct number.
 
 Detailed Steps and Components:
